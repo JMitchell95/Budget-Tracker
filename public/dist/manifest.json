@@ -1,0 +1,22 @@
+{
+  "icons": [
+    {
+      "src": "auto/assets/icons/icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/assets/icons/icon_92x92.png",
+      "sizes": "92x92",
+      "type": "image/png"
+    }
+  ],
+  "name": "Budget Tracker",
+  "short_name": "Budget Tracker",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Simple Easy to use Budget Tracker",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff"
+}
