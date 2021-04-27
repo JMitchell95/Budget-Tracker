@@ -21,6 +21,7 @@
 ## Usage 
     
     In Browser or Natively on your machine!
+    Or follow this Link: https://protected-depths-92224.herokuapp.com/
     
     
     
